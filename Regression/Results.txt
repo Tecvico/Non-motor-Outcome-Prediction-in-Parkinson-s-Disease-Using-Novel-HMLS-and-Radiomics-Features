@@ -1,0 +1,13 @@
+KNeighborsRegressor : 
+test : 
+MAE	mean : 0.027216813388856658	std : 0.015399394674467316
+RMAE	mean : 0.1561088065110611	std : 0.053355917371447716
+MSE	mean : 0.027099446652163323	std : 0.02403371767901131
+RMSE	mean : 0.14322757106575074	std : 0.08114992014024813
+RS	mean : 0.9267698351601916	std : 0.07016343519303588
+train : 
+MAE	mean : 0.0	std : 0.0
+RMAE	mean : 0.0	std : 0.0
+MSE	mean : 0.0	std : 0.0
+RMSE	mean : 0.0	std : 0.0
+RS	mean : 1.0	std : 0.0
